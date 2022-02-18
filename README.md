@@ -1,1 +1,3 @@
-# JS_for_kids_teaching_plan
+## JavaScript For Kids
+
+This short course outlines a six week set of lessons based on the popular book, "JavaScript for Kids" by Nick Morgan.
